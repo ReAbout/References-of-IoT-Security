@@ -42,6 +42,7 @@
 #### App Security
 #### Platform Security
 ## Xiaomi
+- [小米IoT开发者平台](https://iot.mi.com/new/guide.html?file=%E9%A6%96%E9%A1%B5) 
 #### MIDC
 - [MIDC • 2017 小米IoT安全峰会议题 PPT 公布](http://www.vipread.com/library/list/241) 
 >list:   
@@ -69,7 +70,7 @@ IoT Reverse Engineering
 - [小米接入教程](https://homekit.loli.ren/docs/show/12 )       
 - [智能家居设备的另一种打开方式——如何控制局域网中的小米设备](https://paper.seebug.org/616/)  
 #### Device Security
-- [everse Engineering 101 of the Xiaomi IoT ecosystem HITCON Community 2018 Dennis Giese](https://hitcon.org/2018/CMT/slide-files/d2_s1_r0.pdf)  
+- [Reverse Engineering 101 of the Xiaomi IoT ecosystem HITCON Community 2018 Dennis Giese](https://hitcon.org/2018/CMT/slide-files/d2_s1_r0.pdf)  
 - [如何成功劫持小米Mi扫地机器人](https://www.kaspersky.com.cn/blog/xiaomi-mi-robot-hacked/9107/)  
 ###### Notes:
 ###### https://github.com/Beerkay/IoTResearch
