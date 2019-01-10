@@ -9,6 +9,7 @@
 - 2016, USENIX Security, [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf)  
 - 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
 #### Authentication and Access Control 
+- 2017, IEEE S&P, [Security Implications of Permission Models in Smart-Home Application Frameworks](https://www.infoq.com/articles/smart-home-permission-models) 
 - 2017, NDSS, [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](https://amir.rahmati.com/dl/ndss17/ContexIoT_NDSS17.pdf) 
 - 2017, USENIX Security, [SmartAuth: User-Centered Authorization for the Internet of Things](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf)
 - 2017, Access Control Models, [FACT: Functionality-centric Access Control System for IoT Programming Frameworks](http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf)
@@ -17,7 +18,6 @@
 #### Privacy Inference via Sensors and Defenses
 - 2017, arXiv, [Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic](https://arxiv.org/pdf/1708.05044.pdf) 
 - 2017, arXiv, [Detecting Spies in IoT Systems using Cyber-Physical Correlation](https://faculty.washington.edu/lagesse/publications/HiddenSensorDetection.pdf) 
-- 2017, IEEE S&P, [Security Implications of Permission Models in Smart-Home Application Frameworks](https://www.infoq.com/articles/smart-home-permission-models) 
 - 2018, arXiv, [Peek-a-Boo: I see your smart home activities even encrypted](https://arxiv.org/pdf/1808.02741)
 - 2018, arXiv, [Closing the Blinds: Four Strategies for Protecting Smart Home Privacy from Network Observers](https://arxiv.org/pdf/1705.06809.pdf)
 - 2018, arXiv, [A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation](https://arxiv.org/pdf/1808.07432.pdf)
