@@ -31,11 +31,11 @@
 - 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)   
 ## Website
-#### [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
-#### [UMICH IoT](https://iotsecurity.engin.umich.edu/)
+- [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
+- [UMICH IoT](https://iotsecurity.engin.umich.edu/)
 ## Xiaomi
 #### MIDC
-[MIDC • 2017 小米IoT安全峰会议题 PPT 公布](http://www.vipread.com/library/list/241) 
+- [MIDC • 2017 小米IoT安全峰会议题 PPT 公布](http://www.vipread.com/library/list/241) 
 >list:   
 解密人脸解锁   
 IoT 固件安全的设计和攻防   
@@ -45,7 +45,7 @@ IoT 被遗忘的攻击面
 小米 IoT 安全之路   
 IoT与隐私保护   
 
-[MIDC • 2018 小米IoT安全峰会议题 PPT 公布](https://paper.seebug.org/761/)   
+- [MIDC • 2018 小米IoT安全峰会议题 PPT 公布](https://paper.seebug.org/761/)   
 >list：   
 小米 IoT 安全思考与实践   
 小米IoT隐私数据合规实践   
@@ -55,10 +55,10 @@ IoT 安全战地笔记
 IoT Reverse Engineering   
 大安全下的 IoT 安全威胁演变与应对 
 #### Communication
-[绿米网关局域网通信协议V1.1.1](/files/绿米网关局域网通信协议V1.1.1_2017.12.21.doc)   
-[网关局域网通信协议V2.0](http://docs.opencloud.aqara.cn/development/gateway-LAN-communication/)    
-[小米智能家居设备流量分析及脚本控制](https://www.freebuf.com/articles/terminal/181846.html)    
-[小米接入教程](https://homekit.loli.ren/docs/show/12 )       
-[智能家居设备的另一种打开方式——如何控制局域网中的小米设备](https://paper.seebug.org/616/)  
+- [绿米网关局域网通信协议V1.1.1](/files/绿米网关局域网通信协议V1.1.1_2017.12.21.doc)   
+- [网关局域网通信协议V2.0](http://docs.opencloud.aqara.cn/development/gateway-LAN-communication/)    
+- [小米智能家居设备流量分析及脚本控制](https://www.freebuf.com/articles/terminal/181846.html)    
+- [小米接入教程](https://homekit.loli.ren/docs/show/12 )       
+- [智能家居设备的另一种打开方式——如何控制局域网中的小米设备](https://paper.seebug.org/616/)  
 ###### Notes:
 ###### https://github.com/Beerkay/IoTResearch
