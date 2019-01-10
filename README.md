@@ -33,6 +33,14 @@
 ## Website
 - [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
 - [UMICH IoT](https://iotsecurity.engin.umich.edu/)
+- [IoT Security Wiki](https://iotsecuritywiki.com/)
+#### Communication Security
+- [Researchers exploit ZigBee security flaws that compromise security of smart homes](https://www.csoonline.com/article/2969402/microsoft-subnet/researchers-exploit-zigbee-security-flaws-that-compromise-security-of-smart-homes.html)   
+#### Device Security 
+- [智能门锁网络安全分析报告](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247486313&idx=1&sn=adf4560cfceca1e996cbf173e5bb415f&chksm=fa90bda8cde734bebaa34b9b9fc9414907f2f61b80ffa1af70af31a9c56c1590065ac47c972c&mpshare=1&scene=1&srcid=1113NO91YeEE2SnAbvkDRwah#rd)
+- [智能家居行业网络安全风险分析报告 ](https://www.secrss.com/articles/3603)
+#### App Security
+#### Platform Security
 ## Xiaomi
 #### MIDC
 - [MIDC • 2017 小米IoT安全峰会议题 PPT 公布](http://www.vipread.com/library/list/241) 
@@ -54,11 +62,14 @@ IoT 安全战地笔记
 智能门锁，让居住更安全   
 IoT Reverse Engineering   
 大安全下的 IoT 安全威胁演变与应对 
-#### Communication
+#### Communication Security
 - [绿米网关局域网通信协议V1.1.1](/files/绿米网关局域网通信协议V1.1.1_2017.12.21.doc)   
 - [网关局域网通信协议V2.0](http://docs.opencloud.aqara.cn/development/gateway-LAN-communication/)    
 - [小米智能家居设备流量分析及脚本控制](https://www.freebuf.com/articles/terminal/181846.html)    
 - [小米接入教程](https://homekit.loli.ren/docs/show/12 )       
 - [智能家居设备的另一种打开方式——如何控制局域网中的小米设备](https://paper.seebug.org/616/)  
+#### Device Security
+- [everse Engineering 101 of the Xiaomi IoT ecosystem HITCON Community 2018 Dennis Giese](https://hitcon.org/2018/CMT/slide-files/d2_s1_r0.pdf)  
+- [如何成功劫持小米Mi扫地机器人](https://www.kaspersky.com.cn/blog/xiaomi-mi-robot-hacked/9107/)  
 ###### Notes:
 ###### https://github.com/Beerkay/IoTResearch
