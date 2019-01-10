@@ -35,7 +35,7 @@
 #### [UMICH IoT](https://iotsecurity.engin.umich.edu/)
 ## Xiaomi
 [MIDC • 2018 小米IoT安全峰会议题 PPT 公布](https://paper.seebug.org/761/)   
->list：
+>list：   
 小米 IoT 安全思考与实践   
 小米IoT隐私数据合规实践   
 IoT + AI + 安全 =？   
@@ -43,5 +43,12 @@ IoT 安全战地笔记
 智能门锁，让居住更安全   
 IoT Reverse Engineering   
 大安全下的 IoT 安全威胁演变与应对 
+
+[绿米网关局域网通信协议V1.1.1](/files/绿米网关局域网通信协议V1.1.1_2017.12.21.doc)   
+[网关局域网通信协议V2.0](http://docs.opencloud.aqara.cn/development/gateway-LAN-communication/)    
+[小米智能家居设备流量分析及脚本控制](https://www.freebuf.com/articles/terminal/181846.html)    
+[小米接入教程](https://homekit.loli.ren/docs/show/12 )       
+[智能家居设备的另一种打开方式——如何控制局域网中的小米设备](https://paper.seebug.org/616/)  
+[MIDC • 2018 小米IoT安全峰会议题 PPT 公布](https://paper.seebug.org/761/) 
 ###### Notes:
 ###### https://github.com/Beerkay/IoTResearch
