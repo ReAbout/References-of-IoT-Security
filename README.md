@@ -1,8 +1,9 @@
 # Home IoT Security Index
 
 ## 0x01 Paper
-#### Platform vulnerability
+
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
+- 2016, IEEE ANTS, [Low-cost flow-based security solutions for smart-home IoT devices](https://ieeexplore.ieee.org/document/7947781)
 #### Fuzz
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
 #### Sensitive Information 
