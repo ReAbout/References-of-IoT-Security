@@ -1,6 +1,6 @@
 # Home IoT Security References
 
-## Paper
+## 0x01 Paper
 #### Platform vulnerability
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 #### Fuzz
@@ -30,7 +30,7 @@
 - 2018, arXiv, [IoT Security: An End-to-End View and Case Study](https://arxiv.org/pdf/1805.05853.pdf)
 - 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)   
-## Website
+## 0x02 Website
 - [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
 - [UMICH IoT](https://iotsecurity.engin.umich.edu/)
 - [IoT Security Wiki](https://iotsecuritywiki.com/)
@@ -41,7 +41,7 @@
 - [智能家居行业网络安全风险分析报告 ](https://www.secrss.com/articles/3603)
 #### App Security
 #### Platform Security
-## Xiaomi
+## 0x03 Xiaomi
 - [小米IoT开发者平台](https://iot.mi.com/new/guide.html?file=%E9%A6%96%E9%A1%B5) 
 #### MIDC
 - [MIDC • 2017 小米IoT安全峰会议题 PPT 公布](http://www.vipread.com/library/list/241) 
