@@ -17,6 +17,7 @@
 #### Privacy Inference via Sensors and Defenses
 - 2017, arXiv, [Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic](https://arxiv.org/pdf/1708.05044.pdf) 
 - 2017, arXiv, [Detecting Spies in IoT Systems using Cyber-Physical Correlation](https://faculty.washington.edu/lagesse/publications/HiddenSensorDetection.pdf) 
+- 2017, IEEE S&P, [Security Implications of Permission Models in Smart-Home Application Frameworks](https://www.infoq.com/articles/smart-home-permission-models) 
 - 2018, arXiv, [Peek-a-Boo: I see your smart home activities even encrypted](https://arxiv.org/pdf/1808.02741)
 - 2018, arXiv, [Closing the Blinds: Four Strategies for Protecting Smart Home Privacy from Network Observers](https://arxiv.org/pdf/1705.06809.pdf)
 - 2018, arXiv, [A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation](https://arxiv.org/pdf/1808.07432.pdf)
