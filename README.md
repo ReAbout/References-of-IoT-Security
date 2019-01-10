@@ -1,4 +1,4 @@
-# Home IoT Security References
+# Home IoT Security Index
 
 ## 0x01 Paper
 #### Platform vulnerability
