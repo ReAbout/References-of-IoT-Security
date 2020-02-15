@@ -5,21 +5,21 @@
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 - 2016, IEEE ANTS, [Low-cost flow-based security solutions for smart-home IoT devices](https://ieeexplore.ieee.org/document/7947781)
 #### Fuzzing
-- 2010, IEEE S&P, [Experimental security analysis of a modern automobile.]()
-- 2013, IJINS, [Analysis of HTTP protocol implementation in smart card embedded web server.]
-- 2014, HPCS, [Analysis of embedded applications by evolutionary fuzzing]()
-- 2015, AINA, [Fuzzing can packets into automobiles.]()
+- 2010, IEEE S&P, [Experimental security analysis of a modern automobile.](https://ieeexplore.ieee.org/abstract/document/5504804/)
+- 2013, IJINS, [Analysis of HTTP protocol implementation in smart card embedded web server.](https://pdfs.semanticscholar.org/b2e2/3984c8a2ff489e8c129574ed34ea7613ecda.pdf)
+- 2014, HPCS, [Analysis of embedded applications by evolutionary fuzzing.](https://ieeexplore.ieee.org/abstract/document/6903734)
+- 2015, AINA, [Fuzzing can packets into automobiles.](https://ieeexplore.ieee.org/abstract/document/7098059/)
 - 2016, ACM, [ A. Automated dynamic firmware analysis at scale: A case study
-on embedded web interfaces]()
+on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
-- 2019, ACM Workshop, [FirmFuzz: Automated IoT Firmware Introspection and Analysis]()
-- 2019, USENIX Security, [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation]()
+- 2019, ACM Workshop, [FirmFuzz: Automated IoT Firmware Introspection and Analysis](https://dl.acm.org/doi/abs/10.1145/3338507.3358616)
+- 2019, USENIX Security, [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
 #### Analysis Tools
-- 2014, NDSS, [AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems’ Firmwares]()
-- 2014, ACM, [Prospect: peripheral proxying supported embedded code testing.]()
-- 2015, WOOT, [SURROGATES: Enabling Near-Real-Time Dynamic Analyses of Embedded Systems]()
-- 2016, NDSS, [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.]()
-- 2018, NDSS Workshop, [Avatar 2: A Multi-target Orchestration Platform.]()
+- 2014, NDSS, [AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems’ Firmwares](https://www.researchgate.net/profile/Jonas_Zaddach/publication/269197057_Avatar_A_Framework_to_Support_Dynamic_Security_Analysis_of_Embedded_Systems'_Firmwares/links/5e0b2725299bf10bc3852355/Avatar-A-Framework-to-Support-Dynamic-Security-Analysis-of-Embedded-Systems-Firmwares.pdf)
+- 2014, ACM, [Prospect: peripheral proxying supported embedded code testing.](https://dl.acm.org/doi/abs/10.1145/2590296.2590301)
+- 2015, WOOT, [SURROGATES: Enabling Near-Real-Time Dynamic Analyses of Embedded Systems](https://www.usenix.org/conference/woot15/workshop-program/presentation/koscher)
+- 2016, NDSS, [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.](https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf)
+- 2018, NDSS Workshop, [Avatar 2: A Multi-target Orchestration Platform.](http://s3.eurecom.fr/docs/bar18_muench.pdf)
 #### Sensitive Information 
 - 2016, USENIX Security, [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf)  
 - 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
