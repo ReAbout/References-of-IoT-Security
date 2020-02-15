@@ -4,8 +4,22 @@
 
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 - 2016, IEEE ANTS, [Low-cost flow-based security solutions for smart-home IoT devices](https://ieeexplore.ieee.org/document/7947781)
-#### Fuzz
+#### Fuzzing
+- 2010, IEEE S&P, [Experimental security analysis of a modern automobile.]()
+- 2013, IJINS, [Analysis of HTTP protocol implementation in smart card embedded web server.]
+- 2014, HPCS, [Analysis of embedded applications by evolutionary fuzzing]()
+- 2015, AINA, [Fuzzing can packets into automobiles.]()
+- 2016, ACM, [ A. Automated dynamic firmware analysis at scale: A case study
+on embedded web interfaces]()
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
+- 2019, ACM Workshop, [FirmFuzz: Automated IoT Firmware Introspection and Analysis]()
+- 2019, USENIX Security, [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation]()
+#### Analysis Tools
+- 2014, NDSS, [AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems’ Firmwares]()
+- 2014, ACM, [Prospect: peripheral proxying supported embedded code testing.]()
+- 2015, WOOT, [SURROGATES: Enabling Near-Real-Time Dynamic Analyses of Embedded Systems]()
+- 2016, NDSS, [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.]()
+- 2018, NDSS Workshop, [Avatar 2: A Multi-target Orchestration Platform.]()
 #### Sensitive Information 
 - 2016, USENIX Security, [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf)  
 - 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
@@ -32,6 +46,7 @@
 - 2018, arXiv, [IoT Security: An End-to-End View and Case Study](https://arxiv.org/pdf/1805.05853.pdf)
 - 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)   
+- 2020, MDPI, [A Survey of Security Vulnerability Analysis, Discovery, Detection, and Mitigation on IoT Devices](https://www.mdpi.com/1999-5903/12/2/27)
 ## 0x02 Website
 - [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
 - [UMICH IoT](https://iotsecurity.engin.umich.edu/)
