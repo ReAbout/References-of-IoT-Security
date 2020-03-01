@@ -14,6 +14,8 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
 - 2019, ACM Workshop, [FirmFuzz: Automated IoT Firmware Introspection and Analysis](https://dl.acm.org/doi/abs/10.1145/3338507.3358616)
 - 2019, USENIX Security, [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
+#### IPC 
+- 2020, IEEE S&P, [KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware.](https://conand.me/publications/redini-karonte-2020.pdf)
 #### Analysis Tools
 - 2014, NDSS, [AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems’ Firmwares](https://www.researchgate.net/profile/Jonas_Zaddach/publication/269197057_Avatar_A_Framework_to_Support_Dynamic_Security_Analysis_of_Embedded_Systems'_Firmwares/links/5e0b2725299bf10bc3852355/Avatar-A-Framework-to-Support-Dynamic-Security-Analysis-of-Embedded-Systems-Firmwares.pdf)
 - 2014, ACM, [Prospect: peripheral proxying supported embedded code testing.](https://dl.acm.org/doi/abs/10.1145/2590296.2590301)
