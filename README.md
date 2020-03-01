@@ -92,5 +92,5 @@ IoT Reverse Engineering
 #### Device Security
 - [Reverse Engineering 101 of the Xiaomi IoT ecosystem HITCON Community 2018 Dennis Giese](https://hitcon.org/2018/CMT/slide-files/d2_s1_r0.pdf)  
 - [如何成功劫持小米Mi扫地机器人](https://www.kaspersky.com.cn/blog/xiaomi-mi-robot-hacked/9107/)  
-###### Notes:
+### Ref:
 ###### https://github.com/Beerkay/IoTResearch
