@@ -1,9 +1,10 @@
-# Home IoT Security Index
+# Home IoT Security 
 
 ## 0x01 Paper
-
-- 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 - 2016, IEEE ANTS, [Low-cost flow-based security solutions for smart-home IoT devices](https://ieeexplore.ieee.org/document/7947781)
+#### Cloud Security
+- 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
+- 2020, Usenix Security,[Shattered Chain of Trust: Understanding Security Risks in Cross-Cloud IoT Access Delegation](https://www.researchgate.net/profile/Bin_Yuan3/publication/342804736_Shattered_Chain_of_Trust_Understanding_Security_Risks_in_Cross-Cloud_IoT_Access_Delegation/links/5f0700de299bf188160e70af/Shattered-Chain-of-Trust-Understanding-Security-Risks-in-Cross-Cloud-IoT-Access-Delegation.pdf)    
 #### Fuzzing
 - 2010, IEEE S&P, [Experimental security analysis of a modern automobile.](https://ieeexplore.ieee.org/abstract/document/5504804/)
 - 2013, IJINS, [Analysis of HTTP protocol implementation in smart card embedded web server.](https://pdfs.semanticscholar.org/b2e2/3984c8a2ff489e8c129574ed34ea7613ecda.pdf)
@@ -32,6 +33,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2017, Access Control Models, [FACT: Functionality-centric Access Control System for IoT Programming Frameworks](http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf)
 - 2018, USENIX Security, [Rethinking Access Control and Authentication for the Home Internet of Things (IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf)
 - 2018, IEEE SecDev, [Tyche: Risk-Based Permissions for Smart Home Platforms](https://arxiv.org/pdf/1801.04609)
+- 2019, NDSS, [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://cs.uwaterloo.ca/~yaafer/teaching/papers/ndss2019_07A-1_Celik_paper.pdf)
 #### Privacy Inference via Sensors and Defenses
 - 2017, arXiv, [Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic](https://arxiv.org/pdf/1708.05044.pdf) 
 - 2017, arXiv, [Detecting Spies in IoT Systems using Cyber-Physical Correlation](https://faculty.washington.edu/lagesse/publications/HiddenSensorDetection.pdf) 
