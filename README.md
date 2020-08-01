@@ -63,7 +63,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - [智能家居行业网络安全风险分析报告 ](https://www.secrss.com/articles/3603)
 #### App Security
 #### Platform Security
-## 0x03 Xiaomi
+## 0x03 Topic of Xiaomi
 - [小米IoT开发者平台](https://iot.mi.com/new/guide.html?file=%E9%A6%96%E9%A1%B5) 
 #### MIDC
 - [MIDC • 2017 小米IoT安全峰会议题 PPT 公布](http://www.vipread.com/library/list/241) 
