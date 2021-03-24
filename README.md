@@ -56,6 +56,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
 - [UMICH IoT](https://iotsecurity.engin.umich.edu/)
 - [IoT Security Wiki](https://iotsecuritywiki.com/)
+- [物联网安全百科](https://iot-security.wiki/)
 #### Communication Security
 - [Researchers exploit ZigBee security flaws that compromise security of smart homes](https://www.csoonline.com/article/2969402/microsoft-subnet/researchers-exploit-zigbee-security-flaws-that-compromise-security-of-smart-homes.html)   
 - [KCon 2018 议题解读：智能家居安全——身份劫持](https://paper.seebug.org/690/) 
