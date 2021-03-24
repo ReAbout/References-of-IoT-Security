@@ -1,7 +1,7 @@
 # Home IoT Security 
 
 ## 0x01 Paper
-- 2016, IEEE ANTS, [Low-cost flow-based security solutions for smart-home IoT devices](https://ieeexplore.ieee.org/document/7947781)
+
 #### Cloud Security
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 - 2020, Usenix Security,[Shattered Chain of Trust: Understanding Security Risks in Cross-Cloud IoT Access Delegation](https://www.researchgate.net/profile/Bin_Yuan3/publication/342804736_Shattered_Chain_of_Trust_Understanding_Security_Risks_in_Cross-Cloud_IoT_Access_Delegation/links/5f0700de299bf188160e70af/Shattered-Chain-of-Trust-Understanding-Security-Risks-in-Cross-Cloud-IoT-Access-Delegation.pdf)  
