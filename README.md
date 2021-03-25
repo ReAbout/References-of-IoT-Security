@@ -1,7 +1,7 @@
 # Home IoT Security 
 
 ## 0x01 Paper
-Consists of 4 parts：
+Consists of 4 parts：    
 1.Cloud Security    
 2.Vulnerability Discovery on Device   
 3.Vulnerability Analysis Framework on Device   
