@@ -1,12 +1,6 @@
 # Home IoT Security 
 
-## 0x01 Paper
-Consists of 5 parts：    
-1.Cloud Security    
-2.Vulnerability Discovery on Device   
-3.Vulnerability Analysis Framework on Device   
-4.Vulnerability Mitigation   
-5.IoT Surveys     
+## 0x01 Paper 
 
 ### 1.Cloud Security
 
@@ -68,6 +62,10 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)   
 - 2020, MDPI, [A Survey of Security Vulnerability Analysis, Discovery, Detection, and Mitigation on IoT Devices](https://www.mdpi.com/1999-5903/12/2/27)
+
+### 6. Other
+-  2019, USENIX Security,[Looking from the mirror: evaluating IoT device security through mobile companion apps](https://www.usenix.org/conference/usenixsecurity19/presentation/wang-xueqiang)
+
 ## 0x02 Website
 - [知道创宇IoT专栏](https://paper.seebug.org/category/IoT/)   
 - [UMICH IoT](https://iotsecurity.engin.umich.edu/)
