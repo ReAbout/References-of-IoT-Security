@@ -25,6 +25,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2019, USENIX Security, [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
 #### [Symbolic Execution]
 - 2020, IEEE S&P, [KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware.](https://conand.me/publications/redini-karonte-2020.pdf)
+- 2021,USENIX Security, [Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-libo)
 ## 3.Vulnerability Analysis Framework on Device
 #### [Emulation]
 - 2014, NDSS, [AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems’ Firmwares](https://www.researchgate.net/profile/Jonas_Zaddach/publication/269197057_Avatar_A_Framework_to_Support_Dynamic_Security_Analysis_of_Embedded_Systems'_Firmwares/links/5e0b2725299bf10bc3852355/Avatar-A-Framework-to-Support-Dynamic-Security-Analysis-of-Embedded-Systems-Firmwares.pdf)
