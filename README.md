@@ -1,4 +1,4 @@
-# Home IoT Security 
+# IoT Security 
 
 ## 0x01 Paper 
 
