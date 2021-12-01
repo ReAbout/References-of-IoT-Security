@@ -52,6 +52,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2018, arXiv, [Peek-a-Boo: I see your smart home activities even encrypted](https://arxiv.org/pdf/1808.02741)
 - 2018, arXiv, [Closing the Blinds: Four Strategies for Protecting Smart Home Privacy from Network Observers](https://arxiv.org/pdf/1705.06809.pdf)
 - 2018, arXiv, [A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation](https://arxiv.org/pdf/1808.07432.pdf)
+- 2022, USENIX Security,[Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment](https://www.usenix.org/conference/usenixsecurity22/presentation/sharma-rahul)
 ### 5.IoT Surveys  
 - 2017, arXiv, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023.pdf)
 - 2017, arXiv, [Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be](https://arxiv.org/pdf/1703.09809.pdf)
