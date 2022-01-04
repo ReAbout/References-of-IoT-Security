@@ -45,6 +45,10 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2018, NDSS Workshop, [Avatar 2: A Multi-target Orchestration Platform.](http://s3.eurecom.fr/docs/bar18_muench.pdf)
 - 2020, ACSAC ,[FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis](https://dl.acm.org/doi/abs/10.1145/3427228.3427294)
 ## 5.Vulnerability Mitigation
+
+#### [Hotpatch]
+- 2021, NDSS, [HERA: Hotpatching of Embedded Real-time Applications](https://www.ndss-symposium.org/ndss-paper/hera-hotpatching-of-embedded-real-time-applications/)
+- 2022, USENIX Security, [RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices](https://www.usenix.org/system/files/sec22summer_he-yi.pdf)
 #### [Sensitive Information] 
 - 2016, USENIX Security, [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf)  
 - 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
