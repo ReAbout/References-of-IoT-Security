@@ -44,6 +44,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2016, NDSS, [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.](https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf)
 - 2018, NDSS Workshop, [Avatar 2: A Multi-target Orchestration Platform.](http://s3.eurecom.fr/docs/bar18_muench.pdf)
 - 2020, ACSAC ,[FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis](https://dl.acm.org/doi/abs/10.1145/3427228.3427294)
+- 2021, USENIX Security, [Automatic Firmware Emulation through Invalidity-guided Knowledge Inference](https://www.usenix.org/system/files/sec21fall-zhou.pdf)
 ## 5.Vulnerability Mitigation
 
 #### [Hotpatch]
