@@ -36,6 +36,8 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 
 #### other
 - 2021,ACSAC, [argXtract: Deriving IoT Security Configurations via Automated Static Analysis of Stripped ARM Cortex-M Binaries](https://dl.acm.org/doi/pdf/10.1145/3485832.3488007)
+- 2022, WWW, [Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices](https://dl.acm.org/doi/pdf/10.1145/3485447.3512213)
+
 
 ## 4.Vulnerability Analysis Framework on Device
 #### [Emulation]
