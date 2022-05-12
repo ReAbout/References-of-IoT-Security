@@ -39,7 +39,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2022, WWW, [Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices](https://dl.acm.org/doi/pdf/10.1145/3485447.3512213)
 
 
-## 4.Vulnerability Analysis Framework on Device
+### 4.Vulnerability Analysis Framework on Device
 #### [Emulation]
 - 2014, NDSS, [AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems’ Firmwares](https://www.researchgate.net/profile/Jonas_Zaddach/publication/269197057_Avatar_A_Framework_to_Support_Dynamic_Security_Analysis_of_Embedded_Systems'_Firmwares/links/5e0b2725299bf10bc3852355/Avatar-A-Framework-to-Support-Dynamic-Security-Analysis-of-Embedded-Systems-Firmwares.pdf)
 - 2014, ACM, [Prospect: peripheral proxying supported embedded code testing.](https://dl.acm.org/doi/abs/10.1145/2590296.2590301)
@@ -48,7 +48,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2018, NDSS Workshop, [Avatar 2: A Multi-target Orchestration Platform.](http://s3.eurecom.fr/docs/bar18_muench.pdf)
 - 2020, ACSAC ,[FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis](https://dl.acm.org/doi/abs/10.1145/3427228.3427294)
 - 2021, USENIX Security, [Automatic Firmware Emulation through Invalidity-guided Knowledge Inference](https://www.usenix.org/system/files/sec21fall-zhou.pdf)
-## 5.Vulnerability Mitigation
+### 5.Vulnerability Mitigation
 
 #### [Hotpatch]
 - 2021, NDSS, [HERA: Hotpatching of Embedded Real-time Applications](https://www.ndss-symposium.org/ndss-paper/hera-hotpatching-of-embedded-real-time-applications/)
