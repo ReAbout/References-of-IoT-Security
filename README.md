@@ -29,6 +29,7 @@ on embedded web interfaces](https://dl.acm.org/doi/abs/10.1145/2897845.2897900)
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
 - 2019, ACM Workshop, [FirmFuzz: Automated IoT Firmware Introspection and Analysis](https://dl.acm.org/doi/abs/10.1145/3338507.3358616)
 - 2019, USENIX Security, [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
+- 2022, EuroS&P, [Trampoline Over the Air: Breaking in IoT Devices Through MQTT Brokers](https://github.com/ReAbout/Trampoline-Over-the-Air/blob/main/Trampoline%20Over%20the%20Air%20-%20Breaking%20in%20IoT%20Devices%20Through%20MQTT%20Brokers_validated.pdf)
 #### [Symbolic Execution]
 - 2020, IEEE S&P, [KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware.](https://conand.me/publications/redini-karonte-2020.pdf)
 - 2021,USENIX Security, [Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-libo)
